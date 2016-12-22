@@ -1,4 +1,24 @@
+/*body {
+  background: gainsboro;
+}
+*/
+/*****************************
+           GOOGLE MAPS
+*****************************/
 
+    .google-maps {
+        position: relative;
+        padding-bottom: 55%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
 
 /*****************************
            SLIDER
@@ -7,7 +27,7 @@
 
 #carousel-container {
   /*max-width: 1350px;*/
-  margin: 1rem auto;
+  margin: 0 auto;
   border: 5px solid white;
   box-shadow: 0 5px 16px 0 rgba(0, 0, 0, 0.75); 
 }
@@ -84,6 +104,7 @@
   width: 100%; /*   */
   height: 2.5rem;  ;
   max-height: 2.5rem;
+  margin-bottom: 1rem;
 }
 
 #primary_nav_wrap ul /* navbar from About Us to Blog */
@@ -293,6 +314,11 @@ p {
   max-width: 1200px;
   margin: 0 auto;
 }
+/*.content-locations {
+  max-width: 780px;
+  border-right: black solid 2px;
+}*/
+
 .title {
   background-color: rgb(50,105,153);
   color: white;
@@ -303,7 +329,7 @@ p {
   font-size: 21px;
   text-indent: 25px;
   text-transform: uppercase;
-  margin: 0;
+  margin-bottom: 2rem;
 }
 
 .main-content-top {
@@ -316,6 +342,7 @@ p {
   float: left;
   width: 60%;
   padding-right: 2rem;
+  margin-top: 1rem;
 }
 
 /* .vertical-line {
@@ -532,6 +559,7 @@ p {
 .footer ul {
   list-style:none;
   padding-left:0;
+  margin-top: 1.5rem;
 }
 
 .footer li {
