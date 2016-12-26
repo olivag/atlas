@@ -3,7 +3,7 @@
 *****************************/
 
 
-.top-head-bar-glyphicons-container {
+.top-head-bar-glyphicons-and-social-media-container {
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -26,15 +26,48 @@
   padding: 10px 8px;
 }
 
+.glyphicon-earphone-container a:hover, 
+.glyphicon-envelope-container a:hover {
+  color: #c2c2c2;;
+}
+
 .glyphicon-earphone, 
 .glyphicon-envelope {
   color: orange;
   font-size: 15px;
 }
 
-/*.glyphicon-earphone-number {
-  padding-left: 5px;
-}*/
+.top-heading-bar-social-media-container {
+  float: right;
+  /*background-color: red;*/
+}
+
+.twitter-icon-container,
+.facebook-icon-container,
+.linkedin-icon-container  {
+  float: left;
+}
+
+.twitter-icon-container img,
+.facebook-icon-container img,
+.linkedin-icon-container img{
+  width: 25px;
+  margin: 0;
+  padding: 0;
+}
+
+.twitter-icon,
+.facebook-icon,
+.linkedin-icon {
+padding: 8px 5px 10px 5px;
+line-height: 35px;
+}
+
+.twitter-icon:hover,
+.facebook-icon:hover,
+.linkedin-icon:hover {
+opacity: .8;
+}
 
 .testing {
   height: 800px;
@@ -152,7 +185,7 @@ p {
 .language-switcher-container {
   float: right;
   width:20%;
-  background-color: red; 
+  /*background-color: red; */
   padding-top: .5rem;
   padding-bottom: .1rem;
 }
