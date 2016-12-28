@@ -3,7 +3,7 @@
   <title>Atlas Institute<?php echo $pageTitle; ?></title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
 
@@ -57,7 +57,7 @@
     </div> <!-- end of top-head-bar -->
     
     <div class="top-heading-container clearfix">
-      <h1 class="top-heading-main-title"><a href="index.php">Atlas Logo</a></h1>
+      <h1 class="top-heading-main-title"><a href="indice.php">Atlas Logo</a></h1>
       <div class="top-heading-number">(703) 555-1234</div>
     </div>
 
@@ -66,22 +66,22 @@
         <ul class="menu-title-ul">
           <li id="about-us" class="menu-item"><a href="#">About Us<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
             <ul>
-              <li><a href="about.php">About Us</a></li>
-              <li><a href="mission.php">Our Mission</a></li>
-              <li><a href="gallery.php">Gallery</a></li>
+              <li><a href="sobre-nosotros.php">About Us</a></li>
+              <li><a href="mision.php">Our Mission</a></li>
+              <li><a href="galeria.php">Gallery</a></li>
             </ul>
           </li>
           <li id="courses" class="menu-item"><a href="#">Courses<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
             <ul>
               <li><a href="hvac.php">HVAC</a></li>
               <li><a href="hvac-r.php">HVAC/R</a></li>
-              <li><a href="certifications.php">Certifications</a></li>
+              <li><a href="certificaciones.php">Certifications</a></li>
             </ul>
           </li>
           <li id="schedule" class="menu-item"><a href="#">Schedule<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
             <ul>
-              <li><a href="schedule.php">Schedule</a></li>
-              <li><a href="events.php">Events</a></li>
+              <li><a href="horario.php">Schedule</a></li>
+              <li><a href="eventos.php">Events</a></li>
             </ul>
           </li>
           <!-- <li><a href="#">Student Services<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
@@ -95,16 +95,16 @@
           </li> -->
           <li id="contact" class="menu-item"><a href="#">Contact<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
             <ul>
-              <li><a href="contact.php">Contact Us</a></li>
-              <li><a href="location.php">Location</a></li>
+              <li><a href="contactenos.php">Contact Us</a></li>
+              <li><a href="local.php">Location</a></li>
             </ul>
           </li>
         </ul> <!-- end of menu-title-ul -->
 
         <div class="language-switcher-container">        
           <div class="flags-container">
-            <a href="index.php"><img class="flag" src="img/american-flag.png" alt="Picture of American Flag" /></a>
-            <a href="es/indice.php"><img class="flag mexican-flag"src="img/mexican-flag.png" alt="Picture of Mexican Flag" /></a>
+            <a href="../../index.php"><img class="flag" src="../img/american-flag.png" alt="Picture of American Flag" /></a>
+            <a href="indice.php"><img class="flag mexican-flag"src="../img/mexican-flag.png" alt="Picture of Mexican Flag" /></a>
           </div>
           <div class="language-swithcher-text">Language:
           </div>
