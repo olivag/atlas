@@ -1,8 +1,6 @@
 <?php 
-$pageTitle = "";
+$pageTitle = " | Certifications";
 include("inc/header.php"); ?>
-    
-<?php include("inc/carousel.php"); ?>
 
    
 <div class="main-content">

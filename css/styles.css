@@ -360,19 +360,6 @@ p {
   margin-top: 1rem;
 }
 
-/* .vertical-line {
-  height: 20rem; 
-  width:1px;
-  background:#000;
-  float: left; */
-      /*   margin-right: auto;
-        margin-left: auto; */
-      /*   display: inline-block; */
-      /*   margin-left: 2rem; */
-/*   margin: 0 20px; */
-/* } */
-
-
 .image-of-classroom {
   width: 100%;
   border: 5px solid white;
@@ -561,7 +548,7 @@ p {
 .footer-menu-container {
   border-right: dashed white 1px;
   float: left;
-  width: 12%;
+  width: 25%;
   margin-top: 1.5rem;
   text-align: center;
   padding-bottom: 15rem;
@@ -582,7 +569,7 @@ p {
 }
 
 .footer a:hover {
-  color: #c2c2c2;;
+  color: #ffab1f;
 }
 
 .footer ul {
