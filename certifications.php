@@ -1,5 +1,8 @@
 <?php 
 $pageTitle = " | Certifications";
+$currentPage = "certifications.php";
+$currentPageSpanishEquivalent = "es/certificados.php";
+
 include("inc/header.php"); ?>
 
    

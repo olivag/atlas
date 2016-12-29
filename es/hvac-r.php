@@ -1,5 +1,8 @@
 <?php 
 $pageTitle = " | HVAC/R";
+$currentPage = "hvac-r.php";
+$currentPageEnglishEquivalent = "../hvac-r.php";
+
 include("es-inc/es-header.php"); ?>
 
    

@@ -1,5 +1,8 @@
 <?php 
 $pageTitle = " | Sobre Nosotros";
+$currentPage = "sobre-nosotros.php";
+$currentPageEnglishEquivalent = "../about.php";
+
 include("es-inc/es-header.php"); ?>
     
 <?php include("es-inc/es-carousel.php"); ?>

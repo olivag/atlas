@@ -1,5 +1,8 @@
 <?php 
 $pageTitle = " | Events";
+$currentPage = "events.php";
+$currentPageSpanishEquivalent = "es/eventos.php";
+
 include("inc/header.php"); ?>
 
 

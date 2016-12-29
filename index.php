@@ -1,5 +1,8 @@
 <?php 
 $pageTitle = "";
+$currentPage = "index.php";
+$currentPageSpanishEquivalent = "es/indice.php";
+
 include("inc/header.php"); ?>
     
 <?php include("inc/carousel.php"); ?>

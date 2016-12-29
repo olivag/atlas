@@ -103,8 +103,8 @@
 
         <div class="language-switcher-container">        
           <div class="flags-container">
-            <a href="index.php"><img class="flag" src="img/american-flag.png" alt="Picture of American Flag" /></a>
-            <a href="es/indice.php"><img class="flag mexican-flag"src="img/mexican-flag.png" alt="Picture of Mexican Flag" /></a>
+            <a href=<?php echo $currentPage ?>><img class="flag" src="img/american-flag.png" alt="Picture of American Flag" /></a>
+            <a href=<?php echo $currentPageSpanishEquivalent ?>><img class="flag mexican-flag"src="img/mexican-flag.png" alt="Picture of Mexican Flag" /></a>
           </div>
           <div class="language-swithcher-text">Language:
           </div>

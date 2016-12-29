@@ -26,12 +26,6 @@ $(document).ready(function(){
     $("#schedule").addClass("current-menu-item");
   } else if (pageTitle === companyName + " | Contact Us") {
     $("#contact").addClass("current-menu-item");
-  } else if (pageTitle === companyName + " | HVAC") {
-    $("#courses").addClass("current-menu-item");
-  } else if (pageTitle === companyName + " | Our Mission") {
-    $("#about-us").addClass("current-menu-item");
-  } else if (pageTitle === companyName + " | Gallery") {
-    $("#about-us").addClass("current-menu-item");
   
   // Spanish version
   } else if (pageTitle === companyName + " | Sobre Nosotros") {

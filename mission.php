@@ -1,5 +1,8 @@
 <?php 
 $pageTitle = " | Our Mission";
+$currentPage = "mission.php";
+$currentPageSpanishEquivalent = "es/mision.php";
+
 include("inc/header.php"); ?>
     
 <?php include("inc/carousel.php"); ?>

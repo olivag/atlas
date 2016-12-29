@@ -1,5 +1,7 @@
 <?php 
 $pageTitle = " | Location";
+$currentPage = "location.php";
+$currentPageSpanishEquivalent = "es/local.php";
 include("inc/header.php"); ?>
     
    
