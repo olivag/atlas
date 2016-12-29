@@ -64,21 +64,21 @@
     <nav id="primary_nav_wrap">
       <div class="outer-ul-and-language-switcher-container-wrapper">
         <ul class="menu-title-ul">
-          <li id="about-us" class="menu-item"><a href="#">About Us<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
+          <li id="about-us" class="menu-item"><a href="#">About Us<span class="caret"></span></a>
             <ul>
               <li><a href="about.php">About Us</a></li>
               <li><a href="mission.php">Our Mission</a></li>
               <li><a href="gallery.php">Gallery</a></li>
             </ul>
           </li>
-          <li id="courses" class="menu-item"><a href="#">Courses<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
+          <li id="courses" class="menu-item"><a href="#">Courses<span class="caret"></span></a>
             <ul>
               <li><a href="hvac.php">HVAC</a></li>
               <li><a href="hvac-r.php">HVAC/R</a></li>
               <li><a href="certifications.php">Certifications</a></li>
             </ul>
           </li>
-          <li id="schedule" class="menu-item"><a href="#">Schedule<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
+          <li id="schedule" class="menu-item"><a href="#">Schedule<span class="caret"></span></a>
             <ul>
               <li><a href="schedule.php">Schedule</a></li>
               <li><a href="events.php">Events</a></li>
@@ -93,7 +93,7 @@
               <li><a href="#">Make A Payment</a></li>
             </ul>
           </li> -->
-          <li id="contact" class="menu-item"><a href="#">Contact<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
+          <li id="contact" class="menu-item"><a href="#">Contact<span class="caret"></span></a>
             <ul>
               <li><a href="contact.php">Contact Us</a></li>
               <li><a href="location.php">Location</a></li>

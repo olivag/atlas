@@ -212,12 +212,17 @@ p {
   width: 35px;
 }
 
-.navbar-arrow {
+.caret {
+  margin-left: .6rem;
+  margin-bottom: .2rem;
+}
+
+/*.navbar-arrow {
   width: 23px;
   position: absolute;
   top: .1rem;
   margin-top: .4rem;
-}
+}*/
 
 #primary_nav_wrap {
   margin: 0 auto;

@@ -1,6 +1,6 @@
 <?php 
 $pageTitle = " | Local";
-include("inc/header.php"); ?>
+include("es-inc/es-header.php"); ?>
     
    
 <div class="main-content">
@@ -36,4 +36,4 @@ include("inc/header.php"); ?>
 </div>  <!-- end of main-content -->
 
   
-<?php include("inc/footer.php"); ?>
+<?php include("es-inc/es-footer.php"); ?>

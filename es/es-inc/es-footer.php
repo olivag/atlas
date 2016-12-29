@@ -1,30 +1,30 @@
 <div class="footer">
   <div class="footer-menu-container">
-    <div class="footer-menu-title uppercase">About Us
+    <div class="footer-menu-title uppercase">Sobre Nosotros
     </div>
     <ul>
-      <li><a href="about.php">About Us</a></li>
-      <li><a href="mission.php">Our Mission</a></li>      
-      <li><a href="gallery.php">Gallery</a></li>  
+      <li><a href="sobre-nosotros.php">Sobre Nosotros</a></li>
+      <li><a href="mision.php">Nuestra Mision</a></li>      
+      <li><a href="galeria.php">Galeria</a></li>  
     </ul>
   </div>
   
   <div class="footer-menu-container">
-    <div class="footer-menu-title uppercase">Courses
+    <div class="footer-menu-title uppercase">Cursos
     </div>
     <ul>
       <li><a href="hvac.php">HVAC</a></li>
       <li><a href="hvac-r.php">HVAC/R</a></li>      
-      <li><a href="certifications.php">Certifications</a></li>
+      <li><a href="certificados.php">Certificados</a></li>
     </ul>
   </div>
   
   <div class="footer-menu-container">
-    <div class="footer-menu-title uppercase">Schedule
+    <div class="footer-menu-title uppercase">Horarios
     </div>
     <ul>
-      <li><a href="schedule.php">Schedule</a></li>
-      <li><a href="events.php">Events</a></li>      
+      <li><a href="horarios.php">Horarios</a></li>
+      <li><a href="eventos.php">Eventos</a></li>      
     </ul>
   </div>
    
@@ -41,11 +41,11 @@
   </div> -->
   
   <div id="footer-menu-container-contact-us" class="footer-menu-container">
-    <div class="footer-menu-title uppercase">Contact Us
+    <div class="footer-menu-title uppercase">Contactenos
     </div>
     <ul>
-      <li><a href="contact.php">Contact Us</a></li>
-      <li><a href="location.php">Location</a></li>      
+      <li><a href="contactenos.php">Contactenos</a></li>
+      <li><a href="local.php">Local</a></li>      
     </ul>
   </div>
   
@@ -67,7 +67,7 @@
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/app.js"></script>
+<script type="text/javascript" src="../js/app.js"></script>
 
 </body>
 </html>

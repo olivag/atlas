@@ -2,7 +2,7 @@
 $pageTitle = "";
 include("es-inc/es-header.php"); ?>
     
-<?php include("../inc/carousel.php"); ?>
+<?php include("es-inc/es-carousel.php"); ?>
 
    
 <div class="main-content">
@@ -35,4 +35,4 @@ include("es-inc/es-header.php"); ?>
 
 </div>  <!-- end of main-content -->
   
-<?php include("inc/footer.php"); ?>
+<?php include("es-inc/es-footer.php"); ?>

@@ -1,10 +1,10 @@
 <?php 
 $pageTitle = " | Galeria";
-include("inc/header.php"); ?>
+include("es-inc/es-header.php"); ?>
 
 
 
 
 
 
-<?php include("inc/footer.php"); ?>
+<?php include("es-inc/es-footer.php"); ?>

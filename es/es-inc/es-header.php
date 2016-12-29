@@ -64,24 +64,24 @@
     <nav id="primary_nav_wrap">
       <div class="outer-ul-and-language-switcher-container-wrapper">
         <ul class="menu-title-ul">
-          <li id="about-us" class="menu-item"><a href="#">About Us<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
+          <li id="about-us" class="menu-item"><a href="#">Sobre Nosotros<span class="caret"></span></a>
             <ul>
-              <li><a href="sobre-nosotros.php">About Us</a></li>
-              <li><a href="mision.php">Our Mission</a></li>
-              <li><a href="galeria.php">Gallery</a></li>
+              <li><a href="sobre-nosotros.php">Sobre Nosotros</a></li>
+              <li><a href="mision.php">Nuestra Mission</a></li>
+              <li><a href="galeria.php">Galeria</a></li>
             </ul>
           </li>
-          <li id="courses" class="menu-item"><a href="#">Courses<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
+          <li id="courses" class="menu-item"><a href="#">Cursos<span class="caret"></span></a>
             <ul>
               <li><a href="hvac.php">HVAC</a></li>
               <li><a href="hvac-r.php">HVAC/R</a></li>
-              <li><a href="certificaciones.php">Certifications</a></li>
+              <li><a href="certificados.php">Certificados</a></li>
             </ul>
           </li>
-          <li id="schedule" class="menu-item"><a href="#">Schedule<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
+          <li id="schedule" class="menu-item"><a href="#">Horarios<span class="caret"></span></a>
             <ul>
-              <li><a href="horario.php">Schedule</a></li>
-              <li><a href="eventos.php">Events</a></li>
+              <li><a href="horarios.php">Horarios</a></li>
+              <li><a href="eventos.php">Eventos</a></li>
             </ul>
           </li>
           <!-- <li><a href="#">Student Services<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
@@ -93,10 +93,10 @@
               <li><a href="#">Make A Payment</a></li>
             </ul>
           </li> -->
-          <li id="contact" class="menu-item"><a href="#">Contact<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
+          <li id="contact" class="menu-item"><a href="#">Contactenos<span class="caret"></span></a>
             <ul>
-              <li><a href="contactenos.php">Contact Us</a></li>
-              <li><a href="local.php">Location</a></li>
+              <li><a href="contactenos.php">Contactenos</a></li>
+              <li><a href="local.php">Local</a></li>
             </ul>
           </li>
         </ul> <!-- end of menu-title-ul -->
@@ -106,7 +106,7 @@
             <a href="../../index.php"><img class="flag" src="../img/american-flag.png" alt="Picture of American Flag" /></a>
             <a href="indice.php"><img class="flag mexican-flag"src="../img/mexican-flag.png" alt="Picture of Mexican Flag" /></a>
           </div>
-          <div class="language-swithcher-text">Language:
+          <div class="language-swithcher-text">Idioma:
           </div>
         </div> <!-- end of language-switcher-container -->
       </div> <!-- end of outer-ul-and-language-switcher-container-wrapper -->

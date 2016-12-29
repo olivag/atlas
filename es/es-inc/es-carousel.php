@@ -12,7 +12,7 @@
       <div class="item active">
         <img src="http://www.hvac-tech.com/wp-content/uploads/2016/04/Classes-Starting-Soon-Slider.jpg" alt="" />
         <div class="carousel-caption">
-          <h3>Capcion Texto</h3>
+          <h3>Capcion Text</h3>
         </div>
       </div>
       <div class="item">

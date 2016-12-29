@@ -1,8 +1,8 @@
 <?php 
 $pageTitle = " | Nuestra Mision";
-include("inc/header.php"); ?>
+include("es-inc/es-header.php"); ?>
     
-<?php include("inc/carousel.php"); ?>
+<?php include("es-inc/es-carousel.php"); ?>
         
 
 <div class="main-content">
@@ -44,4 +44,4 @@ Stop by our campus any time at 4532 S. Kolin Avenue, Chicago, IL 60632, or call 
 </div>  <!-- end of main-content -->
 
 
-<?php include("inc/footer.php"); ?>
+<?php include("es-inc/es-footer.php"); ?>

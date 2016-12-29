@@ -1,10 +1,10 @@
 <?php 
-$pageTitle = " | Contact Us";
-include("inc/header.php"); ?>
+$pageTitle = " | Contactenos";
+include("es-inc/es-header.php"); ?>
 
 
 
 
 
 
-<?php include("inc/footer.php"); ?>
+<?php include("es-inc/es-footer.php"); ?>
