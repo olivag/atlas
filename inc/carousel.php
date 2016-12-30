@@ -10,19 +10,19 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="http://www.hvac-tech.com/wp-content/uploads/2016/04/Classes-Starting-Soon-Slider.jpg" alt="" />
+        <img id="fotosearch" src="img/k20712548.jpg" alt="HVAC tech working on a residential heat pump." />
         <div class="carousel-caption">
           <h3>Caption Text</h3>
         </div>
       </div>
       <div class="item">
-        <img src="http://www.hvac-tech.com/wp-content/uploads/2016/04/Financial-Aid-Slider.jpg" alt="" /> 
+        <img id="fotosearch" src="img/k0076098.jpg" alt="An air conditioning technician working on a heat recovery unit." /> 
         <div class="carousel-caption">
           <h3>Caption Text</h3>
         </div>
       </div>
       <div class="item">
-        <img src="http://www.hvac-tech.com/wp-content/uploads/2016/04/Photo-Gallery-Slider.jpg" alt="" />
+        <img id="fotosearch" src="img/k1672998.jpg" alt="Air conditioning repairman working on a compressor and giving a thumbs up." />
         <div class="carousel-caption">
           <h3>Caption Text</h3>
         </div>

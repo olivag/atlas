@@ -22,8 +22,8 @@ include("inc/header.php"); ?>
     </div> <!-- end of content-left-of-image -->
 
 
-    <a class="main-content-top-image-link" href="http://www.hvac-tech.com/wp-content/uploads/2016/06/aboutfeatured.jpg">
-      <img class="image-of-classroom" src="http://www.hvac-tech.com/wp-content/uploads/2016/06/aboutfeatured.jpg" alt="" />
+    <a class="main-content-top-image-link" href="img/k20712628.jpg">
+      <img class="image-of-content" src="img/k20712628.jpg" alt="HVAC technician testing voltage on mercury thermostat." />
     </a>
   </div> <!-- end of main-content-top -->
   

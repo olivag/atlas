@@ -27,8 +27,8 @@ include("es-inc/es-header.php"); ?>
       <p>and over 10,000 square feet of lab and shop area. At the completion of the training, students will receive a certificate of completion along with an EPA (Environmental Protection Agency) section 608 universal license and an R-410A safety certification license.</p>
     </div> <!-- end of content-left-of-image -->
 
-    <a class="main-content-top-image-link" href="http://www.hvac-tech.com/wp-content/uploads/2016/06/aboutfeatured.jpg">
-      <img class="image-of-classroom" src="http://www.hvac-tech.com/wp-content/uploads/2016/06/aboutfeatured.jpg" alt="" />
+    <a class="main-content-top-image-link" href="../img/k1837170.jpg">
+      <img class="image-of-content" src="../img/k1837170.jpg" alt="Air conditioning technician checking freon levels." />
     </a>
   </div> <!-- end of main-content-top -->
   

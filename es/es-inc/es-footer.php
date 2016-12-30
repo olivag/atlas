@@ -5,7 +5,7 @@
     <ul>
       <li><a href="sobre-nosotros.php">Sobre Nosotros</a></li>
       <li><a href="mision.php">Nuestra Mision</a></li>      
-      <li><a href="galeria.php">Galeria</a></li>  
+      <!-- <li><a href="galeria.php">Galeria</a></li>   -->
     </ul>
   </div>
   
@@ -15,7 +15,7 @@
     <ul>
       <li><a href="hvac.php">HVAC</a></li>
       <li><a href="hvac-r.php">HVAC/R</a></li>      
-      <li><a href="certificados.php">Certificados</a></li>
+      <!-- <li><a href="certificados.php">Certificados</a></li> -->
     </ul>
   </div>
   

@@ -22,9 +22,9 @@ include("inc/header.php"); ?>
       </p>
     </div> <!-- end of content-left-of-image -->
 
-    <a class="main-content-top-image-link" href="http://www.hvac-tech.com/wp-content/uploads/2016/06/aboutfeatured.jpg">
-      <img class="image-of-classroom" src="http://www.hvac-tech.com/wp-content/uploads/2016/06/aboutfeatured.jpg" alt="" />
-    </a>
+    <!-- <a class="main-content-top-image-link" href="">
+      <img class="image-of-content" src="" alt="" />
+    </a> -->
   </div> <!-- end of main-content-top -->
   
   <hr />
