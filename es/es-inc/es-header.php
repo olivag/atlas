@@ -78,10 +78,10 @@
               <li><a href="certificados.php">Certificados</a></li>
             </ul>
           </li>
-          <li id="schedule" class="menu-item"><a href="#">Horarios<span class="caret"></span></a>
+          <li id="schedule" class="menu-item"><a href="#">Horarios<!-- <span class="caret"></span> --></a>
             <ul>
               <li><a href="horarios.php">Horarios</a></li>
-              <li><a href="eventos.php">Eventos</a></li>
+              <!-- <li><a href="eventos.php">Eventos</a></li> -->
             </ul>
           </li>
           <!-- <li><a href="#">Student Services<img class="navbar-arrow" src="https://www.materialui.co/materialIcons/navigation/arrow_drop_down_white_192x192.png" alt="" /></a>
