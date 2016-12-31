@@ -9,15 +9,13 @@ include("es-inc/es-header.php"); ?>
         
 
 <div class="main-content">
-  <h1 class="title">Discover New Opportunities at Our Trade School in Chicago, IL</h1>
+  <h1 class="title">Nuestra Mision</h1>
 
   <div class="main-content-top clearfix">
     <div class="content-left-of-image page-content">
-      <p>Whether you’re ready for a change or you’re ready to start a new career, come to the HVAC Technical Institute, an HVAC school in Chicago, IL.<br />
-      We focus on training and preparing you in practical skills that you can apply in the air conditioning, ventilation, and heating workplace.
-      </p>
-      <p><strong>Personal Instruction</strong><br />
-      Every student learns at different speeds, which is why we focus on providing you with personalized instruction when you walk through our doors. To ensure you receive the HVAC training you need to succeed, we limit our class sizes to 20 students.
+      <p>Creemos que es posible lograr una preparacion completa. Por ello, entregamos los conocimientos y el desarollo de habilidades necesarias, al mismo tiempo la oportunidad del desarollo individual y profesional. Los que salen de nuestros programas salen con las herramientas para su crecimiento profesional y las indicadas habilidades que se necesitan para progresar dentro de HVAC (calefaccion, ventilacion, y aire acondicionado) y lograr tener el exito deseado.
+      </p><br>
+      <p>Atlass Institute of Technology tiene como objetivo: el de capacitar y preparar tanto a hombres como mujeres en conocimiento como habilidades practicos, con la finalidad de dimensionar la capacidad en las tareas sobre calefaccion, ventilacion, y aire acondicionado. Contamos con instructores que han estado varios a&ntilde;os desempe&ntilde;andose en todas las areas del negocio de HVAC/R, las que derivan de ellas como las ventas, instalacion, estimados, capacitacion y administracion de las misma. En el mundo en que vivimos, se hace evidente las necesidades de technicos de servicios calificados, asi como tambien artesanos e instaladores.
       </p>
     </div> <!-- end of content-left-of-image -->
 
@@ -30,19 +28,19 @@ include("es-inc/es-header.php"); ?>
   <hr />
   
   <div class="content-secondary page-content">
-    <p><strong>Return Student Privileges</strong><br />
-Once you complete your HVAC certification, you may need to relearn or repeat one of your previously completed HVAC classes. We aim to help you stay up to date in the industry. That’s why all HVAC Technical Institute graduates are welcome to return for ongoing training at no extra tuition cost (unless you need to purchase books, supplies, or tool kits).
+    <p><strong>Para Triumfar En Nuestra Mision:</strong><br />
+      <ul>
+        <li>Solamente aceptamos a hombres y mujeres que vienen con interes, entusiasmo y la capacidad fisica para poder completar este verdadero compromiso riguroso del curso.</li>
+        <li>Brindamos lo mejor y lo mas actual de equipo disponible para la instruccion que son utilizados para cumplir con los estandares en la industria.</li>
+        <li>Impartimos este curso en ingles y espa&ntilde;ol.</li>
+        <li>Tenemos como invalorable objetivo, el que todos los estudiantes participen en trabajos reales, como en el camp estando disponibles. Al recibir esta experiencia real llegaran a ser mejores tecnicos.</li>
+        <li>Se presenta para todos los alumnos el aprendizaje mediante videos, labores de laboratorio, instructores con experiencia en su especialidad.</li>
+        <li>Brindamos la capacitacion practica de manera intensiva, para asi dar lugar que los estudiantes pasen el tiempo conveniente dentro del laboratorio.</li>
+        <li>En el periodo de esta capacitacion, se da instruccion para todas las actividades del trabajo, lo que incluye la ayda para poder obtener empleos, relaciones con los clientes y al mismo tiemo las relaciones entre empleado y empleador.</li>
+      </ul>
     </p>
   </div> <!-- end of content-secondary -->
   <hr />
-  
-  <div class="content-tertiary page-content">
-  <p><strong>Convenient Location</strong><br />
-You can easily reach the HVAC Technical Institute at our location 5 minutes away from Midway Airport. Our 17,500 square foot facility features 10,000 square feet of lab and shop areas, and of course, 7,500 square feet of classroom and office space.
-Stop by our campus any time at 4532 S. Kolin Avenue, Chicago, IL 60632, or call us at 773-927-9562 to learn more.</p>
-  </div> <!-- end of content-tertiary -->
-  
-  <hr>
 
 </div>  <!-- end of main-content -->
 

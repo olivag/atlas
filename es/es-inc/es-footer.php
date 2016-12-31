@@ -59,7 +59,7 @@
   </div> -->
 </div> <!-- end of footer -->
       
-<div class="copyright">&copy; Atlas Institute 2016</div>
+<div class="copyright">&copy; Atlass Institute of Technology 2016</div>
 
 </div> <!-- end of main-wrapper -->
 
