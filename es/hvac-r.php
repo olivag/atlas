@@ -21,11 +21,11 @@ include("es-inc/es-header.php"); ?>
       </p>
 
       <h2 class="module-title">Modulo 2: Introduccion A La Electricidad</h2>
-      <p>Este modulo abarca todas las etapas de la calefaccion y son aplicables al gas combustible. Entre los temas se incluyen calentadores de piloto, calentadores de alta eficacia y calentadores condensantes. Aqui, todas las herramientas necesarias para esta unidad de calefaccion tambien seran explicado en detalle.
+      <p>Este modulo abarca todas las etapas de la calefaccion y son aplicables al gas combustible. Entre los temas se incluyen calentadores de piloto, calentadores de alta eficacia y calentadores condensantes. Aqui, todas las herramientas necesarias para esta unidad de calefaccion tambien seran explicados en detalle.
       </p>
 
       <h2 class="module-title">Modulo 3: Aire Acondicionado Basico</h2>
-      <p>En este modulo, los alumnos seran introducido a la teoria y la propia opracion sobre el aire acondicionado. Los alumnos se capacitaran y aprenderan respecto a las unidades de aire acondicionado residenciales y comerciales, circuitos electricos y de refrigeracion, las cuales seran explicadas con mas detalle. Sobre la carga refrigerante, bombas de vacio, calor y la deteccion y localizacion de problemas tecnicos tendran su propia explicacion.
+      <p>En este modulo, los alumnos seran introducidos a la teoria y la propia opracion sobre el aire acondicionado. Los alumnos se capacitaran y aprenderan respecto a las unidades de aire acondicionado residenciales y comerciales, circuitos electricos y de refrigeracion, las cuales seran explicadas con mas detalle. Sobre la carga refrigerante, bombas de vacio, calor y la deteccion y localizacion de problemas tecnicos tendran su propia explicacion.
       </p>
 
       <h2 class="module-title">Modulo 4: Aire Acondicionado Avanzado (Examen De Epa)</h2>
@@ -37,11 +37,11 @@ include("es-inc/es-header.php"); ?>
       </p>
 
       <h2 class="module-title">Modulo 6: Hidronico</h2>
-      <p>En este modulo se cubre los sistemas de calefaccion de agua y vapor. Incluyen los controles, tuberias apropiadas, decision y determinacion en el uso de medidas, como tambien la deteccion y localizacion de problemas los cuales seran explicados mas profundo.
+      <p>En este modulo se cubre los sistemas de calefaccion de agua y vapor. Incluyen los controles, tuberias apropiadas, decision y determinacion en el uso de medidas, como tambien la deteccion y localizacion de problemas los cuales seran explicados mas profundidad.
       </p>
 
-      <h2 class="module-title">Modulo 7: Preparacion A SU Carrera</h2>
-      <p>Este modulo permitira darle las habilidades para tener un empleo seguro. Habra una forma explicativa de sus necesidades relacionada con la busqueda de empleo, la cual sera creada. Terminando este modulo, se hara una entrevista final, la cual sera conducida con el fin de evaluar las necesidades y poder ayudarle en tener una major estrategia pra su profesion.
+      <h2 class="module-title">Modulo 7: Preparacion A Su Carrera</h2>
+      <p>Este modulo permitira darle las habilidades para tener un empleo seguro. Habra una forma explicativa de sus necesidades relacionada con la busqueda de empleo, la cual sera creada. Terminando este modulo, se hara una entrevista final, la cual sera conducida con el fin de evaluar las necesidades y poder ayudarle en tener una mejor estrategia para su profesion.
       </p>
 
       <h2 class="module-title">Modulo 8: Fundamentos De Refrigeracion</h2>
