@@ -9,7 +9,7 @@ include("inc/header.php"); ?>
         
 
 <div class="main-content">
-  <h1 class="title">Discover New Opportunities at Our Trade School in Chicago, IL</h1>
+  <h1 class="title">Begin the journey to an in demand career now</h1>
 
   <div class="main-content-top clearfix">
     <div class="content-left-of-image page-content">

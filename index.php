@@ -9,24 +9,22 @@ include("inc/header.php"); ?>
 
    
 <div class="main-content">
-  <h1 class="title">HVAC Training School For Northern Virginia and Surrounding Areas</h1>
+  <h1 class="title">HVAC Training School In Northern Virginia</h1>
 
   <div class="main-content-top clearfix">
     <div class="content-left-of-image page-content">
-      <p><strong>Experience Hands-On HVAC Certification in Chicago, IL</strong><br />
-      HVAC Technical Institute opened its doors in 1994 with one goal: to equip men and women with the skills and tools they need to succeed in the HVAC workplace. Since then, we have sent thousands of expert technicians into the field and helped them build successful careers. HVAC Technical Institute gives you the skills and certification you need to succeed.
+      <p><strong>Receive Hands-On HVAC Training in Chantilly, VA</strong><br />
+      Atlass Institute of Technology&rsquo;s no nonsense approach will teach students the skills of an HVAC technician that matches the real world nature of the work itself. Our goal is to prepare both men and women with the skills needed to succeed as an HVAC technician. With our solid hands-on training, students can feel confident pursuing a reliable and satisfying job in the field.
       </p>
-      <p><strong>Gain Technical Skills through Hands-On Training</strong><br />
-      HVAC Technical Institute offers the most comprehensive HVAC certification courses in Chicago, IL. Our facilities include 7,500 square feet of classroom area and 10,000 square feet of hands-on workshop area, both of which are vital to our training approach. We believe that learning goes beyond the classroom—we work by your side to help you apply your learning to practical, on-the-job situations.
+      <p><strong>HVAC Job Outlook</strong><br />    
+      The Bureau of Labor Statistics (BLS) reports that openings for heating, ventilation, air conditioning, and refrigeration (HVAC or HVAC/R) technicians will increase 14% between 2014 and 2024, which is much faster than the average growth. Start a career that&rsquo;s in demand now!
       </p>
-      <p><strong>Complete the HVAC Certifications You Need</strong><br />
-      When you complete your HVAC certification courses you will receive an R-410A safety certification and an EPA section 608 universal license. These certifications allow you to put your skills to work and build a career as soon as you leave our doors.
+      <p><strong>HVAC Certifications</strong><br />
+      After completing the required courses, you will receive certificate of completion as well as an R-410A safety certification and an EPA section 608 universal license. These certifications will put you in a position to leverage your skills as an HVAC technician and begin a new career in a growing and in demand field.
       </p>
-      <p><strong>Contact Us Today for More Information</strong><br />
-      Call 773-927-9562 today for more information about our hands-on HVAC training in Chicago, IL. You can also fill out our contact form with any questions you have about HVAC Technical Institute’s courses or facilities. We will respond to your request promptly.
+      <p><strong>Contact Us for More Information</strong><br />
+      If you need additional information or have any questions, call us at 123-456-1234.  You can also email us at atlassinstitute@gmail.com. We will respond to your questions or requests promptly.
       </p>
-      <p>HVAC Technical Institute is a minority owned trade school located in Chicago Illinois. HVAC Technical Institute’s doors opened in 1994 and graduated 35 students. Our goal as a heating and air conditioning school was and always will be to prepare men and women using hands-on training to increase their worth in the HVAC workplace. Over the years, HVAC Technical Institute has certified 175 students a year and continues to improve the quality of service technicians in the Chicagoland area. At HVAC Technical Institute, the emphasis is “hands-on” training.</p>
-      <p>and over 10,000 square feet of lab and shop area. At the completion of the training, students will receive a certificate of completion along with an EPA (Environmental Protection Agency) section 608 universal license and an R-410A safety certification license.</p>
     </div> <!-- end of content-left-of-image -->
 
     <a class="main-content-top-image-link" href="img/k1837172.jpg">
