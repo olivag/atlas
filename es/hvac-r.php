@@ -7,24 +7,58 @@ include("es-inc/es-header.php"); ?>
 
    
 <div class="main-content">
-  <h1 class="title">HVAC Training School For Northern Virginia and Surrounding Areas</h1>
+  <h1 class="title">Curso: HVAC/R</h1>
+  
+  <p>Al unir el curso de HVAC y LCR (refrigeracion commercial); asi damos oportunidad a nuestros estudiantes de llegar a ser tecnicos completos en el campo de HVAC tanto residencial como commercial. Los interesados que se inscriban en este curso, estaran capacitados en los conceptos y materias, habiendo utilizado la teoria con la practica. 
+  </p>
+
+  <h1 class="title">Curricula</h1>
 
   <div class="main-content-top clearfix">
     <div class="content-left-of-image page-content">
-      <p><strong>Experience Hands-On HVAC Certification in Chicago, IL</strong><br />
-      HVAC Technical Institute opened its doors in 1994 with one goal: to equip men and women with the skills and tools they need to succeed in the HVAC workplace. Since then, we have sent thousands of expert technicians into the field and helped them build successful careers. HVAC Technical Institute gives you the skills and certification you need to succeed.
+      <h2 class="module-title">Modulo 1: Introduccion A La Electricidad</h2>
+      <p>Este modulo toma la electricidad aplicada al campo de HVAC. Los circuitos de CA y CC, interpretacion de diagramas de electricidad, trazos, transformadores, relays, motores, interruptores, termostatos, valvulas de gas, deteccion y localizacion de problemas electricos. Estos temas tendran su propia explicacion.
       </p>
-      <p><strong>Gain Technical Skills through Hands-On Training</strong><br />
-      HVAC Technical Institute offers the most comprehensive HVAC certification courses in Chicago, IL. Our facilities include 7,500 square feet of classroom area and 10,000 square feet of hands-on workshop area, both of which are vital to our training approach. We believe that learning goes beyond the classroom—we work by your side to help you apply your learning to practical, on-the-job situations.
+
+      <h2 class="module-title">Modulo 2: Introduccion A La Electricidad</h2>
+      <p>Este modulo abarca todas las etapas de la calefaccion y son aplicables al gas combustible. Entre los temas se incluyen calentadores de piloto, calentadores de alta eficacia y calentadores condensantes. Aqui, todas las herramientas necesarias para esta unidad de calefaccion tambien seran explicado en detalle.
       </p>
-      <p><strong>Complete the HVAC Certifications You Need</strong><br />
-      When you complete your HVAC certification courses you will receive an R-410A safety certification and an EPA section 608 universal license. These certifications allow you to put your skills to work and build a career as soon as you leave our doors.
+
+      <h2 class="module-title">Modulo 3: Aire Acondicionado Basico</h2>
+      <p>En este modulo, los alumnos seran introducido a la teoria y la propia opracion sobre el aire acondicionado. Los alumnos se capacitaran y aprenderan respecto a las unidades de aire acondicionado residenciales y comerciales, circuitos electricos y de refrigeracion, las cuales seran explicadas con mas detalle. Sobre la carga refrigerante, bombas de vacio, calor y la deteccion y localizacion de problemas tecnicos tendran su propia explicacion.
       </p>
-      <p><strong>Contact Us Today for More Information</strong><br />
-      Call 773-927-9562 today for more information about our hands-on HVAC training in Chicago, IL. You can also fill out our contact form with any questions you have about HVAC Technical Institute’s courses or facilities. We will respond to your request promptly.
+
+      <h2 class="module-title">Modulo 4: Aire Acondicionado Avanzado (Examen De Epa)</h2>
+      <p>En este modulo se capacita a los alumnos para el examen de la licencia en refrigeracion EPA (seccion  608), y para el examen del certificado de Seguridad R-410A. Para este efecto, el profesor repasara todo el material que sea necesario para que puedan recibir la licencia universal para los dos examines de forma satisfactoria. En cuanto a las secciones del examen EPA (seccion 608), se incluyen: Base, tipo I, Tipo II y Tipo III. El examen de R-410A esta compuesto de 50 preguntas, de opcion multiple.
       </p>
-      <p>HVAC Technical Institute is a minority owned trade school located in Chicago Illinois. HVAC Technical Institute’s doors opened in 1994 and graduated 35 students. Our goal as a heating and air conditioning school was and always will be to prepare men and women using hands-on training to increase their worth in the HVAC workplace. Over the years, HVAC Technical Institute has certified 175 students a year and continues to improve the quality of service technicians in the Chicagoland area. At HVAC Technical Institute, the emphasis is “hands-on” training.</p>
-      <p>and over 10,000 square feet of lab and shop area. At the completion of the training, students will receive a certificate of completion along with an EPA (Environmental Protection Agency) section 608 universal license and an R-410A safety certification license.</p>
+
+      <h2 class="module-title">Modulo 5: Ventilacion E Instalacion</h2>
+      <p>Esta unidad considera la ventilacion respecto al campo de HVAC. La fabricacion, medida e instalacion de conductos seran explicados; tal como: soldadura de bronce, soldadura, rosca a pipas de gas, e instalacion de conductos. La herramienta necesaria para esta unidad sera debidamente explicada.
+      </p>
+
+      <h2 class="module-title">Modulo 6: Hidronico</h2>
+      <p>En este modulo se cubre los sistemas de calefaccion de agua y vapor. Incluyen los controles, tuberias apropiadas, decision y determinacion en el uso de medidas, como tambien la deteccion y localizacion de problemas los cuales seran explicados mas profundo.
+      </p>
+
+      <h2 class="module-title">Modulo 7: Preparacion A SU Carrera</h2>
+      <p>Este modulo permitira darle las habilidades para tener un empleo seguro. Habra una forma explicativa de sus necesidades relacionada con la busqueda de empleo, la cual sera creada. Terminando este modulo, se hara una entrevista final, la cual sera conducida con el fin de evaluar las necesidades y poder ayudarle en tener una major estrategia pra su profesion.
+      </p>
+
+      <h2 class="module-title">Modulo 8: Fundamentos De Refrigeracion</h2>
+      <p>Este modulo se encargara de repasar los fundamentos de la refrigeracion. Incluyen los conceptos de electricidad monofasica y trifasica, ciclos de refrigeracion y sus componentes, las caracteristicas propias de las mezclas de refrigerantes y aceites, explicando sobre la aplicaciones diferentes de sus respectivas temperaturas.
+      </p>
+
+      <h2 class="module-title">Modulo 9: Componentes De Refrigeracion</h2>
+      <p>Este modulo abarca las funciones y los dise&ntilde;os respecto a los componentes principales de una aplicacion de refrigeracion comercial. Los compresores, evaporadores, dosificadores, acumuladores, filtros secadores, indicadores de humedad y los puertos de servicio seran tratados a detalle en este modulo.
+      </p>
+
+      <h2 class="module-title">Modulo 10: Controles De Refrigeracion</h2>
+      <p>Para este modulo, los alumnos se capacitaran en la operacion, dise&ntilde;o y funciones de las presiones mecanicas, electronicas y los controles de descongelacion en una aplicacion para la refrigeracion comercial. Se incluyen tambien los controles de presion para el evaporador, valvulas de regulacion de la presion del carter del cigue&ntilde;al, temporizadores de descongelacion, interruptores de terminacion de descongelacion y retrasos de los ventiladores, los cuales seran cubiertos.
+      </p>
+
+      <h2 class="module-title">Modulo 11: Aplicacion De Sistemas De Refrigeracion</h2>
+      <p>En este modulo tratara las diferentes aplicaciones de refrigeracion comercial. Se incluira el dise&ntilde;o y la funcion de refrigeracion comercial, congeladores comerciales, enfriadores, congeladores, maquinas de hacer hielo y los refrigeradores domesticos.
+      </p>
     </div> <!-- end of content-left-of-image -->
 
     <a class="main-content-top-image-link" href="../img/k1837170.jpg">

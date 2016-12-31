@@ -372,6 +372,12 @@ p {
   margin-bottom: 2rem;
 }
 
+.module-title {
+  font-size: 15px;
+  color: #0166cc;
+  text-transform: uppercase;
+}
+
 .main-content-top {
   width: 100%;
   display:block;

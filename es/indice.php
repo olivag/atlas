@@ -15,7 +15,7 @@ include("es-inc/es-header.php"); ?>
     <div class="content-left-of-image page-content">
       <p>Estamos situado en 14101 Parke Long Ct, suite G, Chantilly, Virginia 20151. Siendo una escuela dedicada a aire acondicionado y calefaccion, tenemos com meta el capacitar y preparar tanto a hombres como mujeres en la especialidad de aire acondicionado y calefaccion. Damos un enfasis en que nuestra institucion ense&ntilde;a la teoria con la practica.  
       </p>
-      <p>Nuestra facilidad esta formado por aulas de clases, oficinas y laboratorios adecuado. Cuando los estudiantes terminan el curso, reciben su respectivo certificado de culminacion y, una licensia universal del Environmental Protection Agency (EPA) y una certificacion de seguridad para el refrigerant R-410A.
+      <p>Nuestra instalacion esta formado por aulas de clases, oficinas y laboratorios adecuado. Cuando los estudiantes terminan el curso, reciben su respectivo certificado de culminacion y, una licensia universal del Environmental Protection Agency (EPA) y una certificacion de seguridad para el refrigerant R-410A.
       </p>
     </div> <!-- end of content-left-of-image -->
 
