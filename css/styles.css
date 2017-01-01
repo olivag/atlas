@@ -9,7 +9,9 @@
   }
 }
 
-
+.wrapper-without-footer {
+  min-height: calc(100vh - 135px); 
+}
 
 /*****************************
            GENERAL

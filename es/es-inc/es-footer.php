@@ -1,3 +1,4 @@
+</div> <!-- end of wrapper-without-footer -->
 <div class="footer">
   <div class="footer-menu-container">
     <div class="footer-menu-title uppercase">Sobre Nosotros
