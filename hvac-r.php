@@ -7,41 +7,53 @@ include("inc/header.php"); ?>
 
    
 <div class="main-content">
-  <h1 class="title">Curso / HVAC/R</h1>
-  
-  <p>El programa de HVAC se centra en capacitar a los estudiantes para la firme aplicacion de la ense&ntilde;anza como tambien las habilidades y tecnicas, tanto para dar el servicio o la reparacion de los equipos, ya sea en la industria de calefaccion o aire acondicionado que, de cuerdo a la practica, los alumnos aprendan al mismo tiempo respecto al cuidado y uso adecuado de las herramientas de HVAC.    
+  <h1 class="title">Course: HVAC/R</h1>
+
+  <p>Now is a great time to make a career change to become an HVAC technician. Come to Atlass Institue of Technology where we place an emphasis on hands-on training. Atlas Institute of Technology gives its students the skills and certifications needed to succeed in this field. Our solid training will prepare you for the practical skills required in the air conditioning, heating, vetilation, and heating workplace.    
   </p>
 
-  <h1 class="title">Curricula</h1>
+  <h1 class="title">Course Outline</h1>
 
   <div class="main-content-top clearfix">
     <div class="content-left-of-image page-content">
-      <h2 class="module-title">Modulo 1: Introduccion A La Electricidad</h2>
-      <p>Este modulo toma la electricidad aplicada al campo de HVAC. Los circuitos de CA y CC, interpretacion de diagramas de electricidad, trazos, transformadores, relays, motores, interruptores, termostatos, valvulas de gas, deteccion y localizacion de problemas electricos. Estos temas tendran su propia explicacion.
+      <h2 class="module-title">Module 1: Electricity</h2>
+      <p>In this module, we will cover all pahses of electricity as it applies to the HVAC industry. AC and DC circuits, schematic reading, electrical circuit tracing, relays, transformers, motors, thermostats, switches, gas valves, and troubleshooting for these parts will be discussed.
       </p>
 
-      <h2 class="module-title">Modulo 2: Introduccion A La Electricidad</h2>
-      <p>Este modulo abarca todas las etapas de la calefaccion y son aplicables al gas combustible. Entre los temas se incluyen calentadores de piloto, calentadores de alta eficacia y calentadores condensantes. Aqui, todas las herramientas necesarias para esta unidad de calefaccion tambien seran explicado en detalle.
+      <h2 class="module-title">Module 2: Heating</h2>
+      <p>In this module, we will discuss all phases of heating as fueld by gas. We will take a deep look in forced air systems. Products include standing pilot, high efficiency furnaces, and condensing furnaces.
       </p>
 
-      <h2 class="module-title">Modulo 3: Aire Acondicionado Basico</h2>
-      <p>En este modulo, los alumnos seran introducido a la teoria y la propia opracion sobre el aire acondicionado. Los alumnos se capacitaran y aprenderan respecto a las unidades de aire acondicionado residenciales y comerciales, circuitos electricos y de refrigeracion, las cuales seran explicadas con mas detalle. Sobre la carga refrigerante, bombas de vacio, calor y la deteccion y localizacion de problemas tecnicos tendran su propia explicacion.
+      <h2 class="module-title">Module 3: Basic Air Conditioning</h2>
+      <p>This module will introduce students to the theory and operation of residential air conditioning. Electrical circuits will be explained in depth. Recovery, charging, vacuum pumps, superheat, and troubleshooting will be covered as well.
       </p>
 
-      <h2 class="module-title">Modulo 4: Aire Acondicionado Avanzado (Examen De Epa)</h2>
-      <p>En este modulo se capacita a los alumnos para el examen de la licencia en refrigeracion EPA (seccion  608), y para el examen del certificado de Seguridad R-410A. Para este efecto, el profesor repasara todo el material que sea necesario para que puedan recibir la licencia universal para los dos examines de forma satisfactoria. En cuanto a las secciones del examen EPA (seccion 608), se incluyen: Base, tipo I, Tipo II y Tipo III. El examen de R-410A esta compuesto de 50 preguntas, de opcion multiple.
+      <h2 class="module-title">Module 4: Advanced Air Conditioning</h2>
+      <p>This module will prepare students for the EPA section 608 exam (refrigeration license) and the R-410A Safety Certification Exam. The instructor will review all material needed to receive their EPA Universal License and an R-410A Safety Certification License.
       </p>
 
-      <h2 class="module-title">Modulo 5: Ventilacion E Instalacion</h2>
-      <p>Esta unidad considera la ventilacion respecto al campo de HVAC. La fabricacion, medida e instalacion de conductos seran explicados; tal como: soldadura de bronce, soldadura, rosca a pipas de gas, e instalacion de conductos. La herramienta necesaria para esta unidad sera debidamente explicada.
+      <h2 class="module-title">Module 5: Ventilation And Installation</h2>
+      <p>In this module, we discuss ventilation as it pertains to the HVAC industry. Duct sizing and fabrication requirements will be covered. Installation procedures will also be covered such as: brazing, soldering, pipe threading and duct work installation. This module will also explain the tools needed and how to use them in great detail.
       </p>
 
-      <h2 class="module-title">Modulo 6: Hidronico</h2>
-      <p>En este modulo se cubre los sistemas de calefaccion de agua y vapor. Incluyen los controles, tuberias apropiadas, decision y determinacion en el uso de medidas, como tambien la deteccion y localizacion de problemas los cuales seran explicados mas profundo.
+      <h2 class="module-title">Module 6: Hydronics</h2>
+      <p>This module will cover both hot water and steam heating systems. Controls, proper piping, sizing, and troubleshooting will be covered in depth.
       </p>
 
-      <h2 class="module-title">Modulo 7: Preparacion A SU Carrera</h2>
-      <p>Este modulo permitira darle las habilidades para tener un empleo seguro. Habra una forma explicativa de sus necesidades relacionada con la busqueda de empleo, la cual sera creada. Terminando este modulo, se hara una entrevista final, la cual sera conducida con el fin de evaluar las necesidades y poder ayudarle en tener una major estrategia pra su profesion.
+      <h2 class="module-title">Module 7: Career Readiness</h2>
+      <p>In this module, students are given the tools to be competitive in the HVAC industry. A career form will be filled out in order to access the student’s needs relating to job placement. At the end of this module, students will conduct an exit interview with the job developer to discuss the next step in the employment process and help outline a career strategy.
+      </p>
+
+      <h2 class="module-title">Module 8: Refrigeration Basics</h2>
+      <p>In this module, we discuss and review the basics of refrigeration. The concept of single phase and three phase electrical power, refrigeration cycles and its components, the characteristics of refrigerant blends and oils, and the different temperature applications will all be covered.
+      </p>
+
+      <h2 class="module-title">Module 9: Refrigeration Components</h2>
+      <p>This module covers the functions and designs of the major components in a light commercial refrigeration application. Compressors, evaporators, metering devices, accumulators, filter driers, moisture indicators, and service ports will be covered.
+      </p>
+
+      <h2 class="module-title">Module 10: Application Of Refrigeration Systems</h2>
+      <p>In this module, we will discuss various light commercial applications. The design and function of light commercial refrigerators, light commercial freezers, walk-in coolers, walk-in freezers, ice makers, and domestic refrigerators will be covered.
       </p>
     </div> <!-- end of content-left-of-image -->
 

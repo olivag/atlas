@@ -7,24 +7,42 @@ include("inc/header.php"); ?>
 
    
 <div class="main-content">
-  <h1 class="title">HVAC Training School For Northern Virginia and Surrounding Areas</h1>
+  <h1 class="title">Course: HVAC</h1>
+
+  <p>Now is a great time to make a career change to become an HVAC technician. Come to Atlass Institue of Technology where we place an emphasis on hands-on training. Atlas Institute of Technology gives its students the skills and certifications needed to succeed in this field. Our solid training will prepare you for the practical skills required in the air conditioning, heating, vetilation, and heating workplace.    
+  </p>
+
+  <h1 class="title">Course Outline</h1>
 
   <div class="main-content-top clearfix">
     <div class="content-left-of-image page-content">
-      <p><strong>Experience Hands-On HVAC Certification in Chicago, IL</strong><br />
-      HVAC Technical Institute opened its doors in 1994 with one goal: to equip men and women with the skills and tools they need to succeed in the HVAC workplace. Since then, we have sent thousands of expert technicians into the field and helped them build successful careers. HVAC Technical Institute gives you the skills and certification you need to succeed.
+      <h2 class="module-title">Module 1: Electricity</h2>
+      <p>In this module, we will cover all pahses of electricity as it applies to the HVAC industry. AC and DC circuits, schematic reading, electrical circuit tracing, relays, transformers, motors, thermostats, switches, gas valves, and troubleshooting for these parts will be discussed.
       </p>
-      <p><strong>Gain Technical Skills through Hands-On Training</strong><br />
-      HVAC Technical Institute offers the most comprehensive HVAC certification courses in Chicago, IL. Our facilities include 7,500 square feet of classroom area and 10,000 square feet of hands-on workshop area, both of which are vital to our training approach. We believe that learning goes beyond the classroom—we work by your side to help you apply your learning to practical, on-the-job situations.
+
+      <h2 class="module-title">Module 2: Heating</h2>
+      <p>In this module, we will discuss all phases of heating as fueld by gas. We will take a deep look in forced air systems. Products include standing pilot, high efficiency furnaces, and condensing furnaces.
       </p>
-      <p><strong>Complete the HVAC Certifications You Need</strong><br />
-      When you complete your HVAC certification courses you will receive an R-410A safety certification and an EPA section 608 universal license. These certifications allow you to put your skills to work and build a career as soon as you leave our doors.
+
+      <h2 class="module-title">Module 3: Basic Air Conditioning</h2>
+      <p>This module will introduce students to the theory and operation of residential air conditioning. Electrical circuits will be explained in depth. Recovery, charging, vacuum pumps, superheat, and troubleshooting will be covered as well.
       </p>
-      <p><strong>Contact Us Today for More Information</strong><br />
-      Call 773-927-9562 today for more information about our hands-on HVAC training in Chicago, IL. You can also fill out our contact form with any questions you have about HVAC Technical Institute’s courses or facilities. We will respond to your request promptly.
+
+      <h2 class="module-title">Module 4: Advanced Air Conditioning</h2>
+      <p>This module will prepare students for the EPA section 608 exam (refrigeration license) and the R-410A Safety Certification Exam. The instructor will review all material needed to receive their EPA Universal License and an R-410A Safety Certification License.
       </p>
-      <p>HVAC Technical Institute is a minority owned trade school located in Chicago Illinois. HVAC Technical Institute’s doors opened in 1994 and graduated 35 students. Our goal as a heating and air conditioning school was and always will be to prepare men and women using hands-on training to increase their worth in the HVAC workplace. Over the years, HVAC Technical Institute has certified 175 students a year and continues to improve the quality of service technicians in the Chicagoland area. At HVAC Technical Institute, the emphasis is “hands-on” training.</p>
-      <p>and over 10,000 square feet of lab and shop area. At the completion of the training, students will receive a certificate of completion along with an EPA (Environmental Protection Agency) section 608 universal license and an R-410A safety certification license.</p>
+
+      <h2 class="module-title">Module 5: Ventilation And Installation</h2>
+      <p>In this module, we discuss ventilation as it pertains to the HVAC industry. Duct sizing and fabrication requirements will be covered. Installation procedures will also be covered such as: brazing, soldering, pipe threading and duct work installation. This module will also explain the tools needed and how to use them in great detail.
+      </p>
+
+      <h2 class="module-title">Module 6: Hydronics</h2>
+      <p>This module will cover both hot water and steam heating systems. Controls, proper piping, sizing, and troubleshooting will be covered in depth.
+      </p>
+
+      <h2 class="module-title">Module 7: Career Readiness</h2>
+      <p>In this module, students are given the tools to be competitive in the HVAC industry. A career form will be filled out in order to access the student’s needs relating to job placement. At the end of this module, students will conduct an exit interview with the job developer to discuss the next step in the employment process and help outline a career strategy.
+      </p>
     </div> <!-- end of content-left-of-image -->
 
     <a class="main-content-top-image-link" href="img/k2766673.jpg">
