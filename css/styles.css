@@ -669,3 +669,61 @@ p {
   color: white;
   padding-bottom: .5rem;
 }
+
+/*****************************
+        SCHEDULE PAGE
+*****************************/
+
+
+.schedule-container {
+  float: left;
+  width: 32%;
+  /*background-color: green;*/
+  text-align: center;
+  min-width: 380px;
+  margin-bottom: 2rem;
+  margin-right: 1rem;
+}
+
+.schedule-heading {
+  border-bottom: 1px solid #d1d6dc;
+  font-weight: bold;
+  padding: 10px 0;
+  font-size: 15px;
+}
+
+.schedule-container-wrapper {
+  /*background-color: red;*/
+}
+
+.schedule-course-title {
+    background: #262626;;
+    color: #fdc82f;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px 0;
+    font-size: 15px;
+}
+
+.schedule-title-dates-container {
+  float: left;
+  width: 50%;
+}
+
+.schedule-start {
+  /*margin: 0 1.3rem;*/
+}
+
+.schedule-title-dates-container-wrapper {
+  width: 100%;
+  margin: 0 auto;
+  display: inline-block;
+  /*background-color: yellow;*/
+}
+
+.schedule-dates {
+  font-weight: 500;
+    font-size: 15px;
+}
+
+
