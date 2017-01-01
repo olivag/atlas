@@ -9,7 +9,7 @@ include("es-inc/es-header.php"); ?>
 <div class="main-content">
   <h1 class="title">Curso: HVAC/R</h1>
   
-  <p>Al unir el curso de HVAC y LCR (refrigeracion commercial); asi damos oportunidad a nuestros estudiantes de llegar a ser tecnicos completos en el campo de HVAC tanto residencial como commercial. Los interesados que se inscriban en este curso, estaran capacitados en los conceptos y materias, habiendo utilizado la teoria con la practica. 
+  <p class="page-content">Al unir el curso de HVAC y LCR (refrigeracion commercial); asi damos oportunidad a nuestros estudiantes de llegar a ser tecnicos completos en el campo de HVAC tanto residencial como commercial. Los interesados que se inscriban en este curso, estaran capacitados en los conceptos y materias, habiendo utilizado la teoria con la practica. 
   </p>
 
   <h1 class="title">Curricula</h1>

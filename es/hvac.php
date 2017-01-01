@@ -9,7 +9,7 @@ include("es-inc/es-header.php"); ?>
 <div class="main-content">
   <h1 class="title">Curso: HVAC</h1>
   
-  <p>El programa de HVAC se centra en capacitar a los estudiantes para la firme aplicacion de la ense&ntilde;anza como tambien las habilidades y tecnicas, tanto para dar el servicio o la reparacion de los equipos, ya sea en la industria de calefaccion o aire acondicionado que, de cuerdo a la practica, los alumnos aprendan al mismo tiempo respecto al cuidado y uso adecuado de las herramientas de HVAC.    
+  <p class="page-content">El programa de HVAC se centra en capacitar a los estudiantes para la firme aplicacion de la ense&ntilde;anza como tambien las habilidades y tecnicas, tanto para dar el servicio o la reparacion de los equipos, ya sea en la industria de calefaccion o aire acondicionado que, de cuerdo a la practica, los alumnos aprendan al mismo tiempo respecto al cuidado y uso adecuado de las herramientas de HVAC.    
   </p>
 
   <h1 class="title">Curricula</h1>

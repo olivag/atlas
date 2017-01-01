@@ -58,6 +58,16 @@
       <li><a href="#">Terms and Conditions</a></li>
     </ul>
   </div> -->
+
+  <div class="footer-menu-container-right">
+    <div class="footer-menu-title uppercase">Contact Details
+    </div>
+    <ul class="contact-info">
+      <li class="phone"><a id="footer-phone" href="tel:555-6425">1-800-555-6425</a></li>
+      <li class="mail"><a id="footer-mail" href="mailto:atlassinstitute@gmail.com">atlassinstitute@gmail.com</a></li>
+      <li class="location"><a id="footer-location" href="http://maps.google.com/?q=14101 Parke Long Ct, Chantilly, VA 20151">14101 Parke Long Ct <br>Suite G <br> Chantilly, VA 20151</a></li>
+    </ul>
+  </div>
 </div> <!-- end of footer -->
       
 <div class="copyright">&copy; Atlass Institute of Technology 2016</div>

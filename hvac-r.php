@@ -9,7 +9,7 @@ include("inc/header.php"); ?>
 <div class="main-content">
   <h1 class="title">Course: HVAC/R</h1>
 
-  <p>Now is a great time to make a career change to become an HVAC technician. Come to Atlass Institue of Technology where we place an emphasis on hands-on training. Atlas Institute of Technology gives its students the skills and certifications needed to succeed in this field. Our solid training will prepare you for the practical skills required in the air conditioning, heating, vetilation, and heating workplace.    
+  <p class="page-content">Now is a great time to make a career change to become an HVAC technician. Come to Atlass Institue of Technology where we place an emphasis on hands-on training. Atlas Institute of Technology gives its students the skills and certifications needed to succeed in this field. Our solid training will prepare you for the practical skills required in the air conditioning, heating, vetilation, and heating workplace.    
   </p>
 
   <h1 class="title">Course Outline</h1>
