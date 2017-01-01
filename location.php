@@ -10,21 +10,13 @@ include("inc/header.php"); ?>
 
   <div class="main-content-top clearfix">
     <div class="content-left-of-image page-content">
-      <p><strong>Are you ready to learn the technical skills you need to push your career to the next level?</strong><br />
-      At HVAC Tech we specialize in preparing hard-working men and women for success in the HVAC field. We have sent expert technicians into the workforce for over 20 years. We can prepare you to be a valuable asset in the HVAC workplace and propel you towards a successful career.
-      </p>
-      <p><strong>Our Approach to HVAC Training</strong><br />
-      At HVAC Tech we use a hands-on approach to training. Each of our courses requires you put the skills you learn in the classroom to practice in a fully-equipped workshop and lab area.
-      </p>
-      <p>
-        Our 17,500-square-foot facility features the most updated equipment to help you stay ahead of changing industry standards. When you leave HVAC Tech, you will be ready to face any HVAC job with confidence and expertise. Accelerate your career today by calling 773-927-9562 to learn more about one of the best HVAC schools in the Chicago area. We will happily provide you with more information about our courses, facilities, and hand-on approach to learning HVAC skills.<br />
-        Feel free to visit us on the second floor of our building at 4532 S. Kolin Avenue to tour our facilities. We invite you to sit in on one of our courses to experience our hands-on learning environment for yourself. Call ahead of time to let us know you are coming.
+      <p>We are located at 14101 Parke Long Ct, suite G, Chantilly, VA 20151. It is less than 10 minutes south of the Washington Dulles International Airport. Start a career that&rsquo;s high in demand today by calling us at 123-456-789 or emailing us at atlassinstitute@gmail.com to learn more about what our courses have to offer. 
       </p>
     </div> <!-- end of content-left-of-image -->
 
-    <!-- <a class="main-content-top-image-link" href="">
-      <img class="image-of-content" src="" alt="" />
-    </a> -->
+    <a class="main-content-top-image-link" href="">
+      <img class="image-of-content" src="img/front-of-building.jpg" alt="Picture of main entrance." />
+    </a>
   </div> <!-- end of main-content-top -->
   
   <hr />

@@ -7,7 +7,7 @@ include("es-inc/es-header.php"); ?>
     
    
 <div class="main-content">
-  <h1 class="title">Advance your career at Atlas Institue of Technology</h1>
+  <h1 class="title">Avance su carera en Atlass Institue of Technology</h1>
 
   <div class="main-content-top clearfix">
     <div class="content-left-of-image page-content">

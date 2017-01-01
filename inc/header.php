@@ -26,7 +26,7 @@
           </div>
         </div>
 
-        <div class="top-heading-bar-social-media-container">
+        <!-- <div class="top-heading-bar-social-media-container">
           <div class="facebook-icon-container">
             <a class="facebook-icon" href="#">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png">
@@ -50,7 +50,7 @@
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Youtube.svg/256px-Youtube.svg.png">
             </a>
           </div>
-        </div> 
+        </div>  -->
       </div> <!-- end of top-head-bar-glyphicons-and-social-media-container -->
     
 
