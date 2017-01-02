@@ -334,10 +334,14 @@ p {
 
 .top-heading-number {
   float: right;
-  font-size: 36px;
-  margin-top: 1.5rem;
+  font-size: 24px;
+  margin-top: 2.9rem;
   color: #005293;
   font-weight: bold;
+}
+
+.number-separator {
+  color: white;
 }
 
 .outer-ul-and-language-switcher-container-wrapper {

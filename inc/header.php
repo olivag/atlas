@@ -15,8 +15,11 @@
         <div class="top-head-bar-glyphicons-and-social-media-container">
           <div class="top-head-bar-glyphicons-container">
             <div class="glyphicon-earphone-container">
-              <a href="tel:2342355678">
-                <span class="glyphicon glyphicon-earphone"></span> (234)-235-5678
+              <a href="tel:+7033527777">
+                <span class="glyphicon glyphicon-earphone"></span> (703) 352-7777
+              </a> <span class="number-separator">or</span>
+              <a href="tel:+18002666873">
+                1-800-266-6873
               </a>
             </div>
             
@@ -58,8 +61,8 @@
       </div> <!-- end of top-head-bar -->
       
       <div class="top-heading-container clearfix">
-        <h1 class="top-heading-main-title"><a href="index.php">Atlas Logo</a></h1>
-        <div class="top-heading-number">(703) 555-1234</div>
+        <h1 class="top-heading-main-title"><a href="index.php">Atlass Institute Of Technology</a></h1>
+        <div class="top-heading-number">Call us at (703) 352-7777</div>
       </div>
 
       <nav id="primary_nav_wrap">

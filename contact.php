@@ -11,7 +11,8 @@ include("inc/header.php"); ?>
     <p>Our success is  your success. If you have any questions or concerns, please get in touch with us by phone, email or just stop by. We will address your questions/concerns promptly.</p>
     <br>
     <ul class="contact-info">
-      <li class="phone"><a href="tel:555-6425">555-6425</a></li>
+      <li class="phone"><a href="tel:+7033527777">(703) 352-7777</a></li>
+      <li class="phone"><a href="tel:+18002666873">1-800-266-6873</a></li>
       <li class="mail"><a href="mailto:atlassinstitute@gmail.com">atlassinstitute@gmail.com</a></li>
       <li class="location"><a href="http://maps.google.com/?q=14101 Parke Long Ct, Chantilly, VA 20151">14101 Parke Long Ct <br>Suite G <br> Chantilly, VA 20151</a></li>
     </ul>
@@ -20,7 +21,5 @@ include("inc/header.php"); ?>
 </div>  <!-- end of main-content -->
 
 <?php include("inc/footer.php"); ?>
-
-
 
 

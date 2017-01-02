@@ -30,7 +30,7 @@ include("inc/header.php"); ?>
   
   <div class="content-tertiary page-content">
   <p><strong>Convenient Location</strong><br />
-    Atlas Institute of Technology is conveniently located less than 10 minutes from the Washington Dulles International Airport. Feel free to stop by our facility any time at 14101 Parke Long Ct, suite G, Chantilly, VA 20151. You may also call us at 123-456-7890 to learn more.
+    Atlas Institute of Technology is conveniently located less than 10 minutes from the Washington Dulles International Airport. Feel free to stop by our facility any time at 14101 Parke Long Ct, suite G, Chantilly, VA 20151. You may also call us at (703) 352-7777 or 1-800-266-6873 to learn more.
   </p>
   </div> <!-- end of content-tertiary -->
   

@@ -10,7 +10,7 @@ include("inc/header.php"); ?>
 
   <div class="main-content-top clearfix">
     <div class="content-left-of-image page-content">
-      <p>We are located at 14101 Parke Long Ct, suite G, Chantilly, VA 20151. It is less than 10 minutes south of the Washington Dulles International Airport. Start a career that&rsquo;s high in demand today by calling us at 123-456-789 or emailing us at atlassinstitute@gmail.com to learn more about what our courses have to offer. 
+      <p>We are located at 14101 Parke Long Ct, suite G, Chantilly, VA 20151. It is less than 10 minutes south of the Washington Dulles International Airport. Start a career that&rsquo;s high in demand today by calling us at (703) 352-7777 or 1-800-266-6873 or emailing us at atlassinstitute@gmail.com to learn more about what our courses have to offer. 
       </p>
     </div> <!-- end of content-left-of-image -->
 

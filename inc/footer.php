@@ -63,7 +63,8 @@
     <div class="footer-menu-title uppercase">Contact Details
     </div>
     <ul class="contact-info">
-      <li class="phone"><a id="footer-phone" href="tel:555-6425">1-800-555-6425</a></li>
+      <li class="phone"><a id="footer-phone" href="tel:+18662666873">1-800-266-6873</a></li>
+      <li class="phone"><a id="footer-phone" href="tel:+7033527777">(703) 352-7777</a></li>
       <li class="mail"><a id="footer-mail" href="mailto:atlassinstitute@gmail.com">atlassinstitute@gmail.com</a></li>
       <li class="location"><a id="footer-location" href="http://maps.google.com/?q=14101 Parke Long Ct, Chantilly, VA 20151">14101 Parke Long Ct <br>Suite G <br> Chantilly, VA 20151</a></li>
     </ul>

@@ -23,7 +23,7 @@ include("inc/header.php"); ?>
       After completing the required courses, you will receive certificate of completion as well as an R-410A safety certification and an EPA section 608 universal license. These certifications will put you in a position to leverage your skills as an HVAC technician and begin a new career in a growing and in demand field.
       </p>
       <p><strong>Contact Us for More Information</strong><br />
-      If you need additional information or have any questions, call us at 123-456-1234.  You can also email us at atlassinstitute@gmail.com. We will respond to your questions or requests promptly.
+      If you need additional information or have any questions, call us at (703) 352-7777 or 1-800-266-6873.  You can also email us at atlassinstitute@gmail.com. We will respond to your questions or requests promptly.
       </p>
     </div> <!-- end of content-left-of-image -->
 
