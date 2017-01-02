@@ -66,34 +66,55 @@ include("inc/header.php");
 
   <div class="main-content-top clearfix">
     <div id="content-left-of-image-contact-form" class="content-left-of-image page-content">
-          <?php if (isset($_GET["status"]) && $_GET["status"] == "thanks") {
-              echo "<p>Thanks for the email! I&rsquo;ll check out your suggestion shortly!</p>";
-          } else { ?>
-          <form method="post" action="contact-form.php">
-              
-            <div class="contact-form-row">
-              <label for="name">*Name:</label>
-              <input type="text" id="name" name="name" required/>
-            </div>
+      <?php if (isset($_GET["status"]) && $_GET["status"] == "thanks") {
+          echo "<p>Thanks for the email! I&rsquo;ll check out your suggestion shortly!</p>";
+      } else { ?>
+<!--       <form method="post" action="contact-form.php">
+          
+        <div class="contact-form-row">
+          <label for="name">*Name:</label>
+          <input type="text" id="name" name="name" size="50" required/>
+        </div>
+    
+        <div class="contact-form-row">
+          <label for="email">*Email:</label></th>
+          <input type="email" id="email" name="email" required/>
+        </div>
         
-            <div class="contact-form-row">
-              <label for="email">*Email:</label></th>
-              <input type="email" id="email" name="email" required/>
+        <div class="contact-form-row">
+          <label for="name">*Questions / Comments:</label>
+          <textarea name="details" id="details" required></textarea>
+        </div>
+   
+        <div style="display:none">
+          <th><label for="address">Address</label></th>
+          <td><input type="text" id="address" name="address" />
+          <p>Please leave this field blank</p></td>
+        </div>
+        
+        <div class="contact-form-row">
+          <input id="contact-form-submit-btn" type="submit" value="Send" />
+        </div>
+      </form> -->
+
+          <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+            <div class="row">
+              <label class="required" for="name">Name:</label><br />
+              <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+              <span id="name_validation" class="error_message"></span>
             </div>
-            
-            <div class="contact-form-row">
-              <label for="name">*Questions / Comments:</label>
-              <textarea name="details" id="details" required></textarea>
+            <div class="row">
+              <label class="required" for="email">Email:</label><br />
+              <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+              <span id="email_validation" class="error_message"></span>
             </div>
-       
-            <div style="display:none">
-              <th><label for="address">Address</label></th>
-              <td><input type="text" id="address" name="address" />
-              <p>Please leave this field blank</p></td>
+            <div class="row">
+              <label class="required" for="details">Comments | Requests:</label><br />
+              <textarea id="details" class="input" name="details" rows="7" cols="30"></textarea><br />
+              <span id="message_validation" class="error_message"></span>
             </div>
-            <div class="contact-form-row">
-              <input id="contact-form-submit-btn" type="submit" value="Send" />
-            </div>
+              
+              <input id="submit_button" type="submit" value="Send email" />
           </form>
 
   <!--         <form>
@@ -114,8 +135,9 @@ include("inc/header.php");
 
             <input type="submit" value="Send" />
           </form> -->
-          <?php } ?>
-      </div>
+      <?php } ?>
+    </div>
   </div>
+</div>  <!-- end of main-content -->
 
 <?php include("inc/footer.php"); ?>
