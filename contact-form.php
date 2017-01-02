@@ -53,9 +53,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     header("location:contact-form.php?status=thanks");
 }
 
-
-$section = "suggest";
-
 $pageTitle = " | Contact Us";
 $currentPage = "contact.php";
 $currentPageSpanishEquivalent = "es/contactenos.php";
@@ -65,35 +62,58 @@ include("inc/header.php");
 ?>
 
 <div class="main-content">
-  <div class="section page">
-      <div class="wrapper">
-          <h1>Comment / Request</h1>
+  <h1 class="title">Contact us for more information</h1>
+
+  <div class="main-content-top clearfix">
+    <div id="content-left-of-image-contact-form" class="content-left-of-image page-content">
           <?php if (isset($_GET["status"]) && $_GET["status"] == "thanks") {
               echo "<p>Thanks for the email! I&rsquo;ll check out your suggestion shortly!</p>";
           } else { ?>
-          <p>If you think there is something I&rsquo;m missing, let me know! Complete the form to send me an email.</p>
           <form method="post" action="contact-form.php">
-              <table>
-              <tr>
-                  <th><label for="name">Name</label></th>
-                  <td><input type="text" id="name" name="name" required/></td>
-              </tr>
-              <tr>
-                  <th><label for="email">Email</label></th>
-                  <td><input type="email" id="email" name="email" required/></td>
-              </tr>
-              <tr>
-                  <th><label for="name">Suggest Item Details</label></th>
-                  <td><textarea name="details" id="details" required></textarea></td>
-              </tr>
-              <tr style="display:none">
-                  <th><label for="address">Address</label></th>
-                  <td><input type="text" id="address" name="address" />
-                  <p>Please leave this field blank</p></td>
-              </tr>
-              </table>
-              <input type="submit" value="Send" />
+              
+            <div class="contact-form-row">
+              <label for="name">*Name:</label>
+              <input type="text" id="name" name="name" required/>
+            </div>
+        
+            <div class="contact-form-row">
+              <label for="email">*Email:</label></th>
+              <input type="email" id="email" name="email" required/>
+            </div>
+            
+            <div class="contact-form-row">
+              <label for="name">*Questions / Comments:</label>
+              <textarea name="details" id="details" required></textarea>
+            </div>
+       
+            <div style="display:none">
+              <th><label for="address">Address</label></th>
+              <td><input type="text" id="address" name="address" />
+              <p>Please leave this field blank</p></td>
+            </div>
+            <div class="contact-form-row">
+              <input id="contact-form-submit-btn" type="submit" value="Send" />
+            </div>
           </form>
+
+  <!--         <form>
+            <div class="form-group">
+              <label for="name">*Name</label>
+              <input type="text" name="name" id="name" class="form-control">
+            </div>
+            
+            <div class="form-group">
+              <label for="email">*Email address:</label>
+              <input type="email" id="email" name="email" class="form-control">
+            </div>
+            
+            <div class="form-group">
+              <label for="comment">*Comments / Requests:</label>
+              <textarea class="form-control" rows="5" name="details" id="details"></textarea>
+            </div>
+
+            <input type="submit" value="Send" />
+          </form> -->
           <?php } ?>
       </div>
   </div>

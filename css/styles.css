@@ -59,6 +59,29 @@
   background-image: url('../img/contact-location-icon.png');
 }
 
+
+/*****************************
+        CONTACT FORM
+*****************************/
+
+
+.contact-form-row label {
+  display: block;
+}
+
+#content-left-of-image-contact-form {
+  width: 40%;
+}
+
+#name {
+  width: 35rem;
+}
+
+#contact-form-submit-btn {
+  margin: 1rem 0;
+}
+
+
 /*****************************
            GENERAL
 *****************************/
@@ -129,10 +152,6 @@ line-height: 35px;
 .linkedin-icon:hover {
 opacity: .8;
 }
-
-/*.testing {
-  height: 800px;
-}*/
 
 * {
   box-sizing: border-box;
